@@ -1,0 +1,3 @@
+﻿  OPLab13.4.cpp
+C:\Users\Oleksandr\Desktop\лабивізуал\OPLab13\OPLab13.4\OPLab13.4.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OPLab13.4.vcxproj -> C:\Users\Oleksandr\Desktop\лабивізуал\OPLab13\x64\Debug\OPLab13.4.exe
