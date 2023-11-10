@@ -27,7 +27,7 @@ void heapsort(int array[], int length) {
 	}
 }
 int main() {
-	int array[] = { -3, -4, -2, 6, 2, 3, -5, -1, 9, 5, 4, 7, -6, 8, 1, 10 };
+	int array[] = { 7, 8, 6, -2, 1, 2, -1, -5, 10, 5, 4, -6, -3, 3, -4, 9 };
 	int length = 16;
 	for (int index = 0; index < length; index++) { printf("%d ", array[index]); }
 	for (int index = length / 2 - 1; index >= 0; index--) { heapify(array, length, index); }
